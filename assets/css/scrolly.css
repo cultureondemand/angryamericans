@@ -1330,15 +1330,15 @@ background:none !important;
 /*background-color: rgba(255, 255, 255, 1); */
     display: block;
     top: 0;
-    left: 5%;
-  width: 70%;
+    left: 10%;
+  width: 80%;
    text-transform: uppercase;
     color: #000;
   font-size:1.8em;
     text-shadow: 1px 1px 1px #000;
   font-family: "Trocchi",serif !important;
   font-weight: 800;
-  margin-top:2.6em;
+  margin-top:0.2em;
 
   margin-bottom: 2em;
   margin-left: 0;
@@ -1368,11 +1368,11 @@ background:none !important;
     text-shadow: 1px 1px 1px #000;
   font-family: "Trocchi",serif !important;
   font-weight: 800;
-  margin-top:2.6em;
+  margin-top:.6em;
 
    margin-left: 0;
   margin-bottom:2em;
-   padding:.6em;
+   padding:.1em;
   text-align: left;
   line-height: .5em;
   position: relative;
@@ -1386,14 +1386,14 @@ background:none !important;
 }
 
 /* Desktop Styles */
-@media only screen and (min-width: 961px) {
+ @media only screen and (min-width: 961px) and (max-width: 1200px) {
 
 #titleOpener {
 /* background-color: rgba(255, 255, 255, 1); */
     display: block;
     top: 0;
-    left: 15%;
-  width: 70%;
+    left: 25%;
+  width: 50%;
     text-transform: uppercase;
     color: #fff;
   font-size: 3em;
@@ -1403,7 +1403,7 @@ background:none !important;
 
   margin-bottom: 0;
   margin-left: 0;
-  margin-top:2.6em;
+  margin-top:.2em;
    padding-left:0;
  padding-right:.6em;
   padding-top:.1em;
@@ -1415,6 +1415,45 @@ background:none !important;
 }
 
 
+  
+  
+  
+  
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 1201px) {
+
+#titleOpener {
+/* background-color: rgba(255, 255, 255, 1); */
+    display: block;
+    top: 0;
+    left: 30%;
+  width: 40%;
+    text-transform: uppercase;
+    color: #fff;
+  font-size: 3em;
+    text-shadow: 1px 1px 1px #000;
+  font-family: "Trocchi",serif !important;
+  font-weight: 800;
+
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top:.2em;
+   padding-left:0;
+ padding-right:.6em;
+  padding-top:.1em;
+  padding-bottom:.8em;
+  text-align: left;
+  line-height: .46em;
+  position: relative;
+  z-index: 99999999;
+}
+
+
+  
+  
+  
 
 }
 
