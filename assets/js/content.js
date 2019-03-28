@@ -20,7 +20,10 @@ var slideData = [
     },
 
     body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br />National Mall<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>If you’re not angry, you’re not paying attention. </strong><br />The state of affairs in our country has made us all Angry Americans. But it’s righteous, justifiable, vigilant anger. An anger that drives positive change. The anger that started the American Revolution and drove the Civil Rights movement. In times of national distress, it’s our anger that can unite and inspire us all. 
+<br /><br />
+Your host is Paul Rieckhoff. He’s a fighter, a patriot, and an independent political and media force to be reckoned with. After serving as a soldier in Iraq, Rieckhoff emerged as one of the most dynamic political and social leaders in America. In every episode, he breaks down the most important issues facing our country. And he interviews the most influential and compelling people. He’s taking on Republicans, Democrats—and everyone in between. If you’re in the angry middle, Angry Americans reminds you that you’re not alone. We’re all in this together. Join the Angry Americans movement and subscribe now. 
+ 
     `
   },
   
