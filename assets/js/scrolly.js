@@ -46,7 +46,8 @@ function showTitle3(){
 }
 function showTitle4(){
 //////var vid2=document.getElementById("bgvid2");
-///////vid2.pause();}
+///////vid2.pause();
+}
 function showTitle5(){
  ///// var vid3=document.getElementById("bgvid3");vid3.pause();
 }
