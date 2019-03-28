@@ -13,9 +13,9 @@ var slideData = [
     },*/
     
         bkgImage: {
-      small: "grimeblue.png",
-      medium: "grimeblue.png",
-      large: "grimeblue.png"
+      small: "WIDEFLAGHEAD2.png",
+      medium: "WIDEFLAGHEAD2.png",
+      large: "WIDEFLAGHEAD2.png"
       
     },
 
@@ -35,9 +35,9 @@ var slideData = [
  
     
         bkgImage: {
-      small: "grimeblue.png",
-      medium: "grimeblue.png",
-      large: "grimeblue.png"
+      small: "WIDEFLAGHEAD3.png",
+      medium: "WIDEFLAGHEAD3.png",
+      large: "WIDEFLAGHEAD3.png"
       
     },    
     
@@ -61,9 +61,9 @@ var slideData = [
     },*/
     
         bkgImage: {
-      small: "grimeblue.png",
-      medium: "grimeblue.png",
-      large: "grimeblue.png"
+      small: "WIDEFLAGHEAD3.png",
+      medium: "WIDEFLAGHEAD3.png",
+      large: "WIDEFLAGHEAD3.png"
       
     },
     body: `
